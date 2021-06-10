@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-10T02:36:51Z" name="Default suite" finished-at="2021-06-10T02:36:58Z" duration-ms="6562">
+    <groups>
+    </groups>
+    <test started-at="2021-06-10T02:36:51Z" name="Default test" finished-at="2021-06-10T02:36:58Z" duration-ms="6562">
+      <class name="com.shweta.restassured.rs.login">
+        <test-method is-config="true" signature="loginAPI()[pri:0, instance:com.shweta.restassured.rs.login@5d7148e2]" started-at="2021-06-10T02:36:49Z" name="loginAPI" finished-at="2021-06-10T02:36:51Z" duration-ms="2401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAPI -->
+        <test-method is-config="true" signature="settingDependencyBeforeMethod()[pri:0, instance:com.shweta.restassured.rs.login@5d7148e2]" started-at="2021-06-10T02:36:51Z" name="settingDependencyBeforeMethod" finished-at="2021-06-10T02:36:51Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingDependencyBeforeMethod -->
+        <test-method signature="addData()[pri:0, instance:com.shweta.restassured.rs.login@5d7148e2]" started-at="2021-06-10T02:36:51Z" name="addData" finished-at="2021-06-10T02:36:51Z" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addData -->
+        <test-method signature="deleteData()[pri:0, instance:com.shweta.restassured.rs.login@5d7148e2]" started-at="2021-06-10T02:36:51Z" name="deleteData" finished-at="2021-06-10T02:36:52Z" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteData -->
+        <test-method signature="getData()[pri:0, instance:com.shweta.restassured.rs.login@5d7148e2]" started-at="2021-06-10T02:36:52Z" name="getData" finished-at="2021-06-10T02:36:58Z" duration-ms="5943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+      </class> <!-- com.shweta.restassured.rs.login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
